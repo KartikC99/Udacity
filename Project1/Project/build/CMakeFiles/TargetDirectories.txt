@@ -1,3 +1,0 @@
-/home/kc/workspace/Project/build/CMakeFiles/rebuild_cache.dir
-/home/kc/workspace/Project/build/CMakeFiles/edit_cache.dir
-/home/kc/workspace/Project/build/CMakeFiles/myscript.dir
